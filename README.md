@@ -1,4 +1,10 @@
-## Hi there 👋
+# Jasper Sun
+
+systems design engineering @ [university of waterloo](https://uwaterloo.ca/systems-design-engineering/)
+
+[website](https://jaspersun.ca) • [twitter](https://x.com/_sunjasper) • [linkedIn](https://www.linkedin.com/in/sunjasper) • jaspersun02@gmail.com
+
+
 
 <!--
 **zupersun/zupersun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
